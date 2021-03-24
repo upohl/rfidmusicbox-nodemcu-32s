@@ -1,3 +1,5 @@
+# Schematic
+![alt text](https://github.com/upohl/rfidmusicbox-nodemcu-32s/blob/main/rfidmusicbox_schem.png?raw=true)
 
 # NodeMCU-32-Pinout
 3.3 V; GND
